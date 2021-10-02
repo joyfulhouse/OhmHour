@@ -24,7 +24,7 @@ preferences {
 }
 
 metadata {
-	definition (name: "OhmConnect API", namespace: "joyfulhouse", author: "Bryan Li") {
+	definition (name: "OhmConnect (Legacy)", namespace: "joyfulhouse", author: "Bryan Li") {
 		capability "Actuator"
 		capability "Switch"
 		capability "Sensor"
